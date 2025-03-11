@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def somme (L):
    s=0
    for e in L:
